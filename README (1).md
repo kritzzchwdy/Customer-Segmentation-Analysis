@@ -104,21 +104,6 @@ python customer_segmentation.py
 **OR open the Jupyter Notebook:**
 ```bash
 jupyter notebook customer_segmentation.ipynb
-```
-
----
-
-## 📸 Output Screenshots
-
-### EDA Analysis
-![EDA](outputs/eda_analysis.png)
-
-### Elbow Method
-![Elbow](outputs/elbow_method.png)
-
-### Customer Clusters
-![Clusters](outputs/customer_clusters.png)
-
 ---
 
 ## 👩‍💻 Author
