@@ -108,7 +108,7 @@ jupyter notebook customer_segmentation.ipynb
 
 ## 👩‍💻 Author
 
-**[Kritika Chaudhary]**  
+**Kritika Chaudhary**  
 B.Tech CSE — Semester IV  
 Data Analytics Project
 
