@@ -1,5 +1,5 @@
 # 🛍️ Customer Segmentation Analysis
-> **Project 2 | Data Analytics Internship**  
+> **Project 2 | Data Analytics**  
 > Segmenting customers using K-Means Clustering based on Income & Spending Behavior
 
 ---
